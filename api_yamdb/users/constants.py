@@ -1,0 +1,7 @@
+PROFILE_ENDPOINT_NAME = 'me'
+USER = 'user'
+MODERATOR = 'moderator'
+ADMIN = 'admin'
+MAX_LENGTH_USERNAME = 150
+MAX_LENGTH_EMAIL = 254
+USERNAME_PATTERN = r"^[\w.@+-]+\Z"
